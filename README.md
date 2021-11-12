@@ -4,7 +4,7 @@ This is an Augmented Reality project. Image target for the application is Chip m
 
 - Stationary virtual object: All of the scenes are stationary objects.
 - Animated virtual object: Fox sits 5 seconds idle and then jumps 3 times.
-- Moving object: Rotating world miniature is moving object. Also picture moves front when user pushes to the virtual button
+- Moving object: Rotating world miniature is moving object. Also picture moves front when user pushes to the virtual button.
 - Textual virtual object: The text on the house which is "home sweet home" is the textual virtual object.
 - Virtual object mapping a single picture: There is a picture which is NBA logo, is mapped to a billboard.
 - Virtual object mapping and playing video: There is a video about Kobe Bryant that is mapped to a billboard. 
