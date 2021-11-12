@@ -23,4 +23,4 @@ This is an Augmented Reality project. Image target for the application is Chip m
 ![photo_2021-11-12_22-03-10](https://user-images.githubusercontent.com/62053632/141521476-be25c6d2-8007-4b0c-8d5c-c82661f424af.jpg)
 
 
-(Image Target)
+
